@@ -1,2 +1,4 @@
-# programacao-avancada
-Repositório da disciplina de Programação Avançada
+# Programação Avançada
+
+Repositório da disciplina de Programação Avançada.
+
