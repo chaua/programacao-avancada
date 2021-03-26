@@ -4,8 +4,11 @@
 
 class Carrinho {
 public:
-    Carrinho(Produto);
+    Carrinho(Produto produto) : _produto(produto) {
+    }
+
 
 private:
     Produto _produto;
+    int _quantidade;
 };
