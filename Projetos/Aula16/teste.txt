@@ -1,0 +1,2 @@
+Isso eh uma linha de texto!!!
+Isso eh um numero: 99902
